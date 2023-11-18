@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Mi Homepage" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Our Website!</h1>
+    </header>
+
+    <section id="about us">
+        <h2>About Us</h2>
+        <p>
+            Welcome to our company! We are young girls who are dedicated to providing apps that will enable our lives to be easy to go.
+        </p>
+        <img src="Miss.jpg" alt="About Us Image">
+    </section>
+
+    <footer>
+        <p>Contact us at: "57441179 and 50191010"</p>
+    </footer>
+
+</body>
+</html>
